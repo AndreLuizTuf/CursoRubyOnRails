@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+ruby '3.2.1'
+
+gem 'terminal-table'
+gem 'byebug'
+gem 'mysql2'
+gem 'yaml'
+gem 'erb'
+gem 'psych'
